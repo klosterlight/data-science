@@ -1,2 +1,2 @@
-# data-science-week-2-s03
+# data-science-CEROUNO
 ## Gerardo Rendón Lara
